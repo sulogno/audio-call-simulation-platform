@@ -38,17 +38,17 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 
 ## Install Dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 
 ## Run the Main Workflow:
 
 To initiate the full simulation, run:
 
-
+```bash
 python scripts/main_workflow.py
-
+```
 
 
 ## requirements
